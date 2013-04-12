@@ -1,1 +1,1 @@
-Welcome to the Austinelle game wiki!
+Welcome to the Austinelle game wiki! Find information on how to play the game.
