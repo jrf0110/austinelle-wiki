@@ -5,3 +5,8 @@ Welcome to the Austinelle game wiki! Find information on how to play the game.
 ## About
 
 Austinelle is an _Alternate Reality_ productivity game set in the Fantasy world Austinelle. There are elves, gnomes, cyborgs, dwarves, humans, and a vast array of other races.
+
+## Links
+
+* [Questing](/Questing)
+* [Dailies](/Dailies)
