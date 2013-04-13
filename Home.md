@@ -10,3 +10,7 @@ Austinelle is an _Alternate Reality_ productivity game set in the Fantasy world 
 
 * [Questing](/Questing)
 * [Dailies](/Dailies)
+
+## Todo
+
+* Look World of Warcraft XP and questing scales/algorithms http://www.wowpedia.org/Experience_point
