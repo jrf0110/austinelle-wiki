@@ -1,3 +1,3 @@
-Monthlies (as suggested in the titles) are tasks you wish to tackle once a month.  It may be beneficial to put a due date on these so you can be reminded each time you open up your board.  Bills are a common monthly, just as an example.  Make sure to copy them back to your Monthlies and change the due date whenever you complete one of these bad boys.
+Monthlies (as suggested in the title) are tasks you wish to tackle once a month.  It may be beneficial to put a due date on these so you can be reminded each time you open up your board.  Bills are a common monthly, just as an example.  Make sure to copy them back to your Monthlies and change the due date whenever you complete one of these bad boys.
 
 Back to [Dailies](http://austinelle.wiki.j0.hn/Dailies).
