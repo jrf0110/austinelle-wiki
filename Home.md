@@ -10,8 +10,8 @@ Austinelle is an _Alternate Reality_ productivity game set in the Fantasy world 
 
 * [Questing](/Questing)
 * [Dailies](/Dailies)
-* [Weeklies](/Weeklies)
-* [Monthlies](/Monthlies)
+   * [Weeklies](/Weeklies)
+   * [Monthlies](/Monthlies)
 
 ## Todo
 
