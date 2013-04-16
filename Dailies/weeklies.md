@@ -1,1 +1,0 @@
-Much like Dailies, Weeklies are tasks that you wish to complete once a week.  This could be anything from hitting the gym, taking out the trash, or making bacon!  Just make sure the XP and money match the difficulty of the task!
