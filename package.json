@@ -1,0 +1,16 @@
+{
+  "name": "austinelle-wiki",
+  "version": "1.0.0",
+  "description": "Wiki for my alternate reality game Austinelle",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/austinelle-wiki.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "43de6c76fec3af6d361d0347a0f9ddc76ca76cbd"
+}
